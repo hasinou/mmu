@@ -1,0 +1,3 @@
+(car-troubleshooting (can-start yes) (engine-noise 200) (solution replace-belt))
+(car-troubleshooting (can-start yes) (engine-noise 80) (solution check-battery))
+(car-troubleshooting (can-start no) (engine-noise 0) (solution check-fuel))
